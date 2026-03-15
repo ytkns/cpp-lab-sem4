@@ -1,6 +1,6 @@
 #include "Window.h"
 
-Window::Window(int n): size(n) {};
+Window::Window(int windowSize): size(windowSize) {};
 
 void Window::Run(){
     cout << "Okno o rozmiarze " << size <<  " jest wyswietlone !" << endl;
