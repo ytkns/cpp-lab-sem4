@@ -1,6 +1,6 @@
 #include "Application.h"
 
-Application::Application(string n): name(n) {};
+Application::Application(string appName): name(appName) {};
 
 void Application::Run(){
     cout << "Aplikacja o nazwie " << name <<  " jest uruchomiona !" << endl;
