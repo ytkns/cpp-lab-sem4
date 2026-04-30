@@ -1,0 +1,3 @@
+/home/sasha/cpp/4sem/lab08/build/CMakeFiles/Proj01.dir
+/home/sasha/cpp/4sem/lab08/build/CMakeFiles/edit_cache.dir
+/home/sasha/cpp/4sem/lab08/build/CMakeFiles/rebuild_cache.dir

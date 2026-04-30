@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Proj01.dir/main.cpp.o CMakeFiles/Proj01.dir/src/Product.cpp.o CMakeFiles/Proj01.dir/src/Shop.cpp.o CMakeFiles/Proj01.dir/src/SortShop.cpp.o -o Proj01 
